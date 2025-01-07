@@ -2,7 +2,7 @@
 - 👀 I’m interested in website designing
 - 🌱 I’m currently learning about Full-stack web development
 - 💞️ I’m looking to collaborate with web developer
-- 📫 Reach me at soundaryajeyakodi@gmail.com
+- 📫 Reach me at soundaryakanagaraj@gmail.com
 - 
 
 <!---
